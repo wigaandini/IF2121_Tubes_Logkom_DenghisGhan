@@ -1,0 +1,17 @@
+:-dynamic(wilayah/6).
+:-dynamic(infoPlayer/7).
+:-dynamic(whoseTurn/1).
+:-dynamic(jumlahDadu/2).
+:-dynamic(hasattacked/2).
+:-dynamic(ceasefire/2).
+:-dynamic(supersoldier/2).
+:-dynamic(supplyissue/2).
+:-dynamic(auxiliary/2).
+:-dynamic(disease/2).
+:-dynamic(playerListAfterOrder/1).
+:-dynamic(totalMoves/2).
+:-dynamic(playerOrder/2).
+:-dynamic(hasrisked/2).
+:-dynamic(iterator/1).
+:-dynamic(iteratorTroops/1).
+:-dynamic(iteratorPlace/1).
